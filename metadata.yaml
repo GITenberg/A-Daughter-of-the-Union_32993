@@ -1,0 +1,28 @@
+_repo: A-Daughter-of-the-Union_32993
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Madison, Lucy Foster
+    birthdate: 1865
+    deathdate: 1932
+    gutenberg_agent_id: '33094'
+    url: http://www.gutenberg.org/2009/agents/33094
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Foster_Madison
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+title: A Daughter of the Union
+url: http://www.gutenberg.org/ebooks/32993
